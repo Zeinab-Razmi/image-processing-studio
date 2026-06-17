@@ -64,7 +64,7 @@ Whenever you run an image through the app, the data flows behind the scenes into
 * **Processed Output View:** You get a side-by-side visual comparison right away. It lets you quickly see exactly how your settings altered the image—whether that’s wiping out noise, finding crisp edges, or shifting color spaces.
 * **Dynamic Histogram:** Below the output, the app renders a live pixel-intensity histogram. It maps the pixel density against a normalized range of $[0.0, 1.0]$. This is incredibly helpful for checking the contrast, seeing how values are clustering, or visualizing where a threshold split happened.
 
-* ![img.png](image/img.png)
+* ![img.png](image/img.jpg)
 
 ## Features
 
