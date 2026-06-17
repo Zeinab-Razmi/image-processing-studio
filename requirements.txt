@@ -1,0 +1,19 @@
+# Core image processing mathematical frameworks
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Scientific image transformation analysis and Otsu logic
+scikit-image>=0.21.0
+
+# Dynamic user UI visualization layer
+gradio>=4.0.0
+
+# Analytics density histogram compilation
+matplotlib>=3.5.0
+pillow>=9.0.0
+
+
+
+
+
+
