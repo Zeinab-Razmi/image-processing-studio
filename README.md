@@ -13,7 +13,7 @@ This project was developed to explore core image processing concepts including e
 ## Structure
 
 ```
-image-processing/
+image-processing-studio/
 ├── main.py
 ├── test.py
 ├── requirements.txt
@@ -34,8 +34,8 @@ image-processing/
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/Zeinab-Razmi/image-processing.git
-cd image-processing
+git clone https://github.com/Zeinab-Razmi/image-processing-studio.git
+cd image-processing-studio
 pip install -r requirements.txt
 ```
 
